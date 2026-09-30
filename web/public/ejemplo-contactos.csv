@@ -1,0 +1,4 @@
+nombre,cedula,edad,genero,metodo_pago,ciudad,telefono,email,negocio
+Laura Méndez,1000000099,29,femenino,transferencia,Bogotá,3000000099,laura@ejemplo.com,Andes Hogar
+Ana Gómez,1000000001,41,femenino,tarjeta,Bogotá,3000000001,ana@ejemplo.com,Andes Hogar
+,1000000100,22,masculino,efectivo,Cali,3000000100,mal@ejemplo.com,Andes Hogar

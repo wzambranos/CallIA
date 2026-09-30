@@ -1,0 +1,30 @@
+# Dependencies and build
+node_modules/
+.next/
+out/
+build/
+dist/
+coverage/
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+*.p12
+pgpass.conf
+
+# Logs and OS
+*.log
+.DS_Store
+Thumbs.db
+
+# TypeScript / Next
+*.tsbuildinfo
+next-env.d.ts
+
+# Vercel / IDE
+.vercel
+.idea/
+.vscode/
